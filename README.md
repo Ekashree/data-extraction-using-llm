@@ -19,13 +19,15 @@ This project is an Invoice Entity Extractor that processes uploaded PDF invoices
 Clone the repository:
 https://github.com/Ekashree/data-extraction-using-llm.git
 ### Usage
-1. Run the Streamlit application:
+1. Open the google colab and install the relevant packages.
+2. Upload the main.py and custom_style.css file on the google colab
+3. Run the Streamlit application:
 streamlit run app.py
-2. Open your web browser and navigate to http://localhost:8501.
-3. Upload PDF files using the file uploader in the sidebar.
-4. Select the attributes you want to extract from the PDFs.
-5. Click the "Generate" button to process the uploaded files and extract the data.
-6. Download the extracted data in Excel format by clicking the "Download file" button.
+4. Open your web browser and navigate to http://localhost:8501.
+5. Upload PDF files using the file uploader in the sidebar.
+6. Select the attributes you want to extract from the PDFs.
+7. Click the "Generate" button to process the uploaded files and extract the data.
+8. Download the extracted data in Excel format by clicking the "Download file" button.
 
 invoice-entity-extractor/
 
