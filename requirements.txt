@@ -1,0 +1,7 @@
+streamlit==1.10.0
+pandas==1.4.2
+numpy==1.22.3
+pdf2image==1.16.0
+google-generativeai==1.0.0
+PyPDFLoader==0.1.0
+xlsxwriter==3.0.2
