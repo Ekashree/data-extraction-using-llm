@@ -23,6 +23,7 @@ Create an Google API Key using following link:
 https://aistudio.google.com/app/apikey
 
 Add the generated API key in the google colab notebook.
+On update of the API Key also update the app.py accordingly
 ### Usage
 1. Open the google colab and install the relevant packages.
 2. Upload the main.py and custom_style.css file on the google colab
