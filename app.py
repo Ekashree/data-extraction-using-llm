@@ -13,7 +13,7 @@ import ast
 from io import BytesIO
 import xlsxwriter
 
-GOOGLE_API_KEY = "AIzaSyCXaH9uGUWlRcwdKXZ3F-CKIZZU_BnWPQI"
+GOOGLE_API_KEY = "AIzaSyBMKxbHBjbGO5FYC8SqWVu5Oe4uSohMszw"
 
 genai.configure(api_key=GOOGLE_API_KEY)
 system_prompt = """
